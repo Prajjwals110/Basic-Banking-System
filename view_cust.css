@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Domine:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Patua+One&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+  background-color:  rgb(231, 230, 222);
+}
+
+/* navbar css starts here  */
+.bg-light {
+  top: 2%;
+  background-image: linear-gradient(120deg,  
+  hsl(201, 79%, 48%),
+  hsla(195, 54%, 68%, 0.933));
+  border-radius: 43px;
+  display: flex;
+  width: 98%;
+  margin: auto;
+}
+
+.navbar-brand {
+  font-family: 'Times new roman';
+  font-size: 2.5rem;
+  color: #fafcff !important;
+}
+
+.nav-link {
+  color: #f2f5f9 !important;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.nav-link:hover {
+  background-color: #084c67;
+  border-radius: 150px;
+}
+.navbar-brand img {
+  width: 50px;
+  height: 70px;
+}
+/* navbar css ends here  */
+
+.container table {
+    line-height: 8px;
+    width: 98%;
+    position: absolute;
+    top: 180px;
+  }
+  
+  .container {
+    margin-left: 0px;
+  }

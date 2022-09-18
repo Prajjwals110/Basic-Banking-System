@@ -15,4 +15,4 @@ No Login Page. No User Creation. Only transfer of money between multiple users.<
 Website link:- https://bank-of-spark.herokuapp.com/index.html<br>
 GitHub Link:- https://github.com/Prajjwals110/Basic-Banking-System.git<br>
 You Tube Link:- https://www.youtube.com/watch?v=XmOvLismqHE<br>
-Linkedin Link:- linkedin.com/in/prajjwal-singh-563ba41a0/<br>
+Linkedin Link:- https://www.linkedin.com/in/prajjwal-singh-563ba41a0/<br>

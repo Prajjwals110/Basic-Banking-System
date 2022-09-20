@@ -10,7 +10,7 @@ Flow: Home Page > View all Customers > Select and View Customer > Transfer Money
 
 <br><br>
 
-Website link:- https://bank-of-spark.herokuapp.com/index.html<br>
+Website link:- https://rococo-donut-c6407d.netlify.app/
 GitHub Link:- https://github.com/Prajjwals110/Basic-Banking-System.git<br>
-You Tube Link:- https://www.youtube.com/watch?v=XmOvLismqHE<br>
+You Tube Link:- <br>
 Linkedin Link:- https://www.linkedin.com/in/prajjwal-singh-563ba41a0/<br>
